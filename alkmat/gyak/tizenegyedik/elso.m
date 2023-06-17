@@ -1,0 +1,9 @@
+c=[-5; -11];
+A=[2 6; 3 5; 5 4];
+b=[60; 58; 75];
+lb=[0;0];
+[x, fval, ~, ~, lambda] = linprog(c,A,b,[],[],lb,[])
+egy = x(1)
+masodik = x(2)
+haszon = fval*-1
+maradek=b-A*x
