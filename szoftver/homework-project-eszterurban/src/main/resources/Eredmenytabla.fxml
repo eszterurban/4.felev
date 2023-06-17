@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="600.0" style="-fx-background-color: #8c878a;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="iranyito.EredmenytablaIranyito">
+    <ListView fx:id="listView" fixedCellSize="-5.0" layoutX="31.0" layoutY="62.0" prefHeight="436.0" prefWidth="538.0" />
+    <Label alignment="CENTER" layoutX="213.0" layoutY="11.0" prefHeight="51.0" prefWidth="173.0" text="Eredménytábla" textFill="WHITE">
+        <font>
+            <Font size="26.0" />
+        </font>
+    </Label>
+    <Button fx:id="startGomb" layoutX="239.0" layoutY="515.0" mnemonicParsing="false" onAction="#startAction" prefHeight="51.0" prefWidth="122.0" text="Újrakezdés" />
+</Pane>

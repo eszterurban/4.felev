@@ -1,0 +1,8 @@
+INFO: Fehér játékos neve: Eszter, indul a játék. 
+INFO: Fehér játékos neve: Eszter,  indul a játék.
+ERROR: Rossz lépés
+INFO: JSON sikeres fájlba írása.
+INFO: Eredménytábla betöltése
+INFO: Nyitó képernyőre váltás.
+INFO: Eredménytábla betöltése.
+INFO: Nyitó képernyőre váltás.

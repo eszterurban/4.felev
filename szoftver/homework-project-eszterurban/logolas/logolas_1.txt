@@ -1,0 +1,2 @@
+INFO: Fehér játékos neve: a, indul a játék. 
+INFO: Fehér játékos neve: a,  indul a játék.

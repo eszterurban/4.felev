@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="KetKiralyModellTest" time="0.267" tests="6" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="18"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1250"/>
+    <property name="java.class.path" value="C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\homework-project-eszterurban\target\test-classes;C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\homework-project-eszterurban\target\classes;C:\Users\Asus\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-controls\20\javafx-controls-20.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-controls\20\javafx-controls-20-win.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-graphics\20\javafx-graphics-20.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-graphics\20\javafx-graphics-20-win.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-base\20\javafx-base-20.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-base\20\javafx-base-20-win.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-fxml\20\javafx-fxml-20.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-fxml\20\javafx-fxml-20-win.jar;C:\Users\Asus\.m2\repository\com\google\inject\guice\5.0.1\guice-5.0.1.jar;C:\Users\Asus\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\Asus\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\Asus\.m2\repository\com\google\guava\guava\30.1-jre\guava-30.1-jre.jar;C:\Users\Asus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Asus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Asus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Asus\.m2\repository\org\checkerframework\checker-qual\3.5.0\checker-qual-3.5.0.jar;C:\Users\Asus\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\Asus\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Asus\.m2\repository\com\google\inject\extensions\guice-persist\5.0.1\guice-persist-5.0.1.jar;C:\Users\Asus\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;C:\Users\Asus\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;C:\Users\Asus\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Asus\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\Asus\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\Asus\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Asus\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.2\junit-jupiter-params-5.9.2.jar;C:\Users\Asus\.m2\repository\org\tinylog\tinylog-api\2.6.1\tinylog-api-2.6.1.jar;C:\Users\Asus\.m2\repository\org\tinylog\tinylog-impl\2.6.1\tinylog-impl-2.6.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Budapest"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="HU"/>
+    <property name="sun.boot.library.path" value="C:\Users\Asus\.jdks\openjdk-18.0.2.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\Asus\AppData\Local\Temp\surefire13181337538136118807\surefirebooter-20230526210230641_3.jar C:\Users\Asus\AppData\Local\Temp\surefire13181337538136118807 2023-05-26T21-02-30_376-jvmRun1 surefire-20230526210230641_1tmp surefire_0-20230526210230641_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\homework-project-eszterurban\target\test-classes;C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\homework-project-eszterurban\target\classes;C:\Users\Asus\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-controls\20\javafx-controls-20.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-controls\20\javafx-controls-20-win.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-graphics\20\javafx-graphics-20.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-graphics\20\javafx-graphics-20-win.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-base\20\javafx-base-20.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-base\20\javafx-base-20-win.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-fxml\20\javafx-fxml-20.jar;C:\Users\Asus\.m2\repository\org\openjfx\javafx-fxml\20\javafx-fxml-20-win.jar;C:\Users\Asus\.m2\repository\com\google\inject\guice\5.0.1\guice-5.0.1.jar;C:\Users\Asus\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\Asus\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\Asus\.m2\repository\com\google\guava\guava\30.1-jre\guava-30.1-jre.jar;C:\Users\Asus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Asus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Asus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Asus\.m2\repository\org\checkerframework\checker-qual\3.5.0\checker-qual-3.5.0.jar;C:\Users\Asus\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\Asus\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Asus\.m2\repository\com\google\inject\extensions\guice-persist\5.0.1\guice-persist-5.0.1.jar;C:\Users\Asus\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;C:\Users\Asus\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;C:\Users\Asus\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Asus\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\Asus\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\Asus\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Asus\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.2\junit-jupiter-params-5.9.2.jar;C:\Users\Asus\.m2\repository\org\tinylog\tinylog-api\2.6.1\tinylog-api-2.6.1.jar;C:\Users\Asus\.m2\repository\org\tinylog\tinylog-impl\2.6.1\tinylog-impl-2.6.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Asus"/>
+    <property name="user.language" value="hu"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-08-18"/>
+    <property name="java.home" value="C:\Users\Asus\.jdks\openjdk-18.0.2.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\homework-project-eszterurban"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Asus\AppData\Local\Temp\surefire13181337538136118807\surefirebooter-20230526210230641_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="18.0.2.1+1-1"/>
+    <property name="user.name" value="Asus"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Asus\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Asus\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2022.3.2"/>
+    <property name="java.version" value="18.0.2.1"/>
+    <property name="user.dir" value="C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\homework-project-eszterurban"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1250"/>
+    <property name="java.library.path" value="C:\Users\Asus\.jdks\openjdk-18.0.2.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MATLAB\R2021b\bin;Asus\Desktop\IntelliJ IDEA 2022.3.2\plugins\maven\lib\maven3\bin;C:\Users\Asus\Desktop\IntelliJ IDEA 2022.3.2\plugins\maven\lib\maven3\bin;C:\Program Files\Git\cmd;C:\Users\Asus\Desktop\Scripts\;C:\Users\Asus\Desktop\;C:\Users\Asus\miniconda3;C:\Users\Asus\miniconda3\Library\mingw-w64\bin;C:\Users\Asus\miniconda3\Library\usr\bin;C:\Users\Asus\miniconda3\Library\bin;C:\Users\Asus\miniconda3\Scripts;C:\Users\Asus\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.1\bin;;C:\Users\Asus\AppData\Local\Programs\Microsoft VS Code\bin;Asus\Desktop\IntelliJ IDEA 2022.3.2\plugins\maven\lib\maven3\bin;C:\Users\Asus\Desktop\IntelliJ IDEA 2022.3.2\plugins\maven\lib\maven3\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;;C:\Program Files\JetBrains\PyCharm 2022.3.2\bin;;&apos;C:\Users\Asus\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts;C:\Users\Asus\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="18.0.2.1+1-1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="62.0"/>
+  </properties>
+  <testcase name="get_lehetseges_lepes_test" classname="KetKiralyModellTest" time="0.069"/>
+  <testcase name="ha_kiraly_mozog_test" classname="KetKiralyModellTest" time="0.002"/>
+  <testcase name="negyzet_allapot_test" classname="KetKiralyModellTest" time="0.006"/>
+  <testcase name="random_negyzet_helyes" classname="KetKiralyModellTest" time="0.003"/>
+  <testcase name="a_nyeres_helyes" classname="KetKiralyModellTest" time="0.002"/>
+  <testcase name="test_lepes_metodus" classname="KetKiralyModellTest" time="0.094">
+    <system-err><![CDATA[2023-05-26 21:02:32 [main] modell.KetKiralyModell.lepes()
+ERROR: Rossz lépés
+2023-05-26 21:02:32 [main] modell.KetKiralyModell.lepes()
+ERROR: Rossz lépés
+]]></system-err>
+  </testcase>
+</testsuite>

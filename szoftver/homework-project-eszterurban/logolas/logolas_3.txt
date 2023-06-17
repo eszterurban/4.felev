@@ -1,0 +1,16 @@
+INFO: Fehér játékos neve: a, indul a játék. 
+INFO: Fehér játékos neve: a,  indul a játék.
+ERROR: Rossz lépés
+ERROR: Rossz lépés
+ERROR: Rossz lépés
+ERROR: Rossz lépés
+ERROR: Rossz lépés
+ERROR: Rossz lépés
+ERROR: Rossz lépés
+ERROR: Rossz lépés
+ERROR: Rossz lépés
+ERROR: Rossz lépés
+ERROR: Rossz lépés
+INFO: JSON sikeres fájlba írása.
+INFO: Eredménytábla betöltése
+INFO: Nyitó képernyőre váltás.
