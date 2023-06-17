@@ -1,0 +1,53 @@
+@options
+@packages
+-classpath
+'C:/Users/Asus/.m2/repository/io/github/openfeign/feign-gson/12.1/feign-gson-12.1.jar;C:/Users/Asus/.m2/repository/io/github/openfeign/feign-core/12.1/feign-core-12.1.jar;C:/Users/Asus/.m2/repository/com/google/code/gson/gson/2.10/gson-2.10.jar;C:/Users/Asus/.m2/repository/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar;C:/Users/Asus/.m2/repository/io/github/openfeign/feign-slf4j/12.1/feign-slf4j-12.1.jar;C:/Users/Asus/.m2/repository/org/slf4j/slf4j-api/2.0.4/slf4j-api-2.0.4.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Users/Asus/Desktop/EGYETEM/4.felev/szoftver/working-with-github-eszterurban-3/src/main/java;C:/Users/Asus/Desktop/EGYETEM/4.felev/szoftver/working-with-github-eszterurban-3/target/generated-sources/delombok;C:/Users/Asus/Desktop/EGYETEM/4.felev/szoftver/working-with-github-eszterurban-3/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Asus/Desktop/EGYETEM/4.felev/szoftver/working-with-github-eszterurban-3/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ip-geolocator-eszterurban 1.0 API'
+-use
+-version
+-windowtitle
+'ip-geolocator-eszterurban 1.0 API'
+geolocator
+C:\Users\Asus\.m2\repository\io\github\openfeign\feign-gson\12.1\feign-gson-12.1.jar = 1676475626259
+C:\Users\Asus\.m2\repository\io\github\openfeign\feign-core\12.1\feign-core-12.1.jar = 1676475626292
+C:\Users\Asus\.m2\repository\com\google\code\gson\gson\2.10\gson-2.10.jar = 1676475626277
+C:\Users\Asus\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar = 1676726825667
+C:\Users\Asus\.m2\repository\io\github\openfeign\feign-slf4j\12.1\feign-slf4j-12.1.jar = 1677345342891
+C:\Users\Asus\.m2\repository\org\slf4j\slf4j-api\2.0.4\slf4j-api-2.0.4.jar = 1677345342908
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\src\main\java = 1679402424215
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\generated-sources\delombok = 1679403117004
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\generated-sources\annotations = 1679403117273
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\allclasses-index.html = 1679403696862
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\allpackages-index.html = 1679403696865
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\copy.svg = 1679403696903
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\element-list = 1679403696779
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\help-doc.html = 1679403696898
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\index-all.html = 1679403696890
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\index.html = 1679403696892
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\jquery-ui.overrides.css = 1679403696929
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\member-search-index.js = 1679403696869
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\module-search-index.js = 1679403696866
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\overview-tree.html = 1679403696843
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\package-search-index.js = 1679403696867
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\script.js = 1679403696902
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\search.js = 1679403696906
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\stylesheet.css = 1679403696900
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\tag-search-index.js = 1679403696872
+C:\Users\Asus\Desktop\EGYETEM\4.felev\szoftver\working-with-github-eszterurban-3\target\apidocs\type-search-index.js = 1679403696868

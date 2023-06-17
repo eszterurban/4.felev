@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"geolocator","l":"GeoLocation"},{"p":"geolocator","l":"GeoLocator"},{"p":"geolocator","l":"Main"}];updateSearchResults();
